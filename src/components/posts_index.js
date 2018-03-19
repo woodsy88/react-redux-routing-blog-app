@@ -6,7 +6,7 @@ class PostsIndex extends Component {
             <div>
                 <h2>Post Index</h2>
             </div>
-        );
+        )
     }
 }
 
